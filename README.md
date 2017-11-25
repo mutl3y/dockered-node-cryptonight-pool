@@ -1,0 +1,1 @@
+# dockered-node-cryptonight-pool
